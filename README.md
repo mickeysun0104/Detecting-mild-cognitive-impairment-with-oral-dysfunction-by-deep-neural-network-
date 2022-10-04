@@ -3,3 +3,6 @@ Using elders' dental and emotion examination data to predict elders' mild cognit
 
 Main skills to use:
 - Dealing with imbalanced data with different sampling methods
+- A deep learning model to handle high-dimensional features with different data types
+- Using LightGBM to do the feature engineering and give proper explanation of the final result
+- Visualizing the embedding of training features to do further analysis
