@@ -1,1 +1,1 @@
-Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-
+# Detecting mild cognitive impairment with oral dysfunction by deep neural network
