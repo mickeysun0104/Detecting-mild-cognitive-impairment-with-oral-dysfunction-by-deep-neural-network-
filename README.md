@@ -6,3 +6,4 @@ Main skills to use:
 - A deep learning model to handle high-dimensional features with different data types
 - Using LightGBM to do the feature engineering and give proper explanation of the final result
 - Visualizing the embedding of training features to do further analysis
+![image](https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/emb_oral6_t6_molar.png)
