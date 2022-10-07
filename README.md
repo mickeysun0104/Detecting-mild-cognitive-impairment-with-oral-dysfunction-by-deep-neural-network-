@@ -13,7 +13,7 @@ Main skills to use:
   The data in this reasearch is from Health Examination for the Elderly (台北市老人健康檢查資料庫). There are four datasets we used in this reasearch, including oral examination, SPMSQ, BSRS-5 and demographics. The main issues needs to be solved are the sparsity of the oral features and the imbalanced distribution of the target.
 ![image](https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/data_sparsity.png)
 <div align=center>
-<img src="https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/spiscore_distribution.png" width="75%" height="75%">
+<img src="https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/spiscore_distribution.png">
 </div>
 
 ## Method
