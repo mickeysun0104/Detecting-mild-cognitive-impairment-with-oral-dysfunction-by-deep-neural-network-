@@ -15,5 +15,6 @@ Main skills to use:
 ![image](https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/spiscore_distribution.png)
 
 
-## Model
-  In order to solve the sparsity of the oral features, a deep neural network is used in the research. [Deep Crossing](https://dl.acm.org/doi/abs/10.1145/2939672.2939704) is 
+## Method
+  In order to solve the sparsity of the oral features, a deep neural network is used in the research. [Deep Crossing](https://dl.acm.org/doi/abs/10.1145/2939672.2939704) is the model that we used in the research. It trains embeddings for categorical features to solve high sparsity and dimensionality of data. After training embeddings for categorical features, all features will be the input of Residual Layer to do the further interaction. The structure of the model is shown bellow:
+![image](https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/deep_crossing.png)
