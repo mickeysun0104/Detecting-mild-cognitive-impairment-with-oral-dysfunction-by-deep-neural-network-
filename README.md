@@ -7,9 +7,13 @@ Main skills to use:
 - Using LightGBM to do the feature engineering and give proper explanation of the final result
 - Visualizing the embedding of training features to do further analysis
 ![image](https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/emb_oral6_t6_molar.png)
-  
+
+
 ## Description of the dataset:
   The data in this reasearch is from Health Examination for the Elderly (台北市老人健康檢查資料庫). There are four datasets we used in this reasearch, including oral examination, SPMSQ, BSRS-5 and demographics. The main issues needs to be solved are the sparsity of the oral features and the imbalanced distribution of the target.
 ![image](https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/data_sparsity.png)
 ![image](https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/spiscore_distribution.png)
 
+
+## Model
+  In order to solve the sparsity of the oral features, a deep neural network is used in the research. [Deep Crossing](https://dl.acm.org/doi/abs/10.1145/2939672.2939704) is 
