@@ -27,7 +27,7 @@ Main skills to use:
 
   Another benefit of traning embeddings of oral features is that we can observe those features by calculating the cosine distance in the high dimentional space. The similar concept is like observeing word embeddings when doing NLP projects. Combing with the domain knowledge, some basic assumption could be proved for future discussion. 
 <div align=center>
-<img src="https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/emb_oral6_t6_molar.png" width="40%" height="40%"/>
+<img src="https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/emb_oral6_t6_molar.png" width="70%" height="70%"/>
 </div>
   
   
