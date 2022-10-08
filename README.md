@@ -29,7 +29,12 @@ Main skills to use:
 <div align=center>
 <img src="https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/emb_oral6_t6_molar.png" width="70%" height="70%"/>
 </div>
-  
+
+## Result
+- Emotional issues result from poor oral health have obvious impact on the elderly's cognitive impairment
+- Dental bridge and tooth loss are important in predicting cognitive impairment
+- The importance of follow-up treatment is emphasized by the prediction
+- Oral hyiene and periodontitis should be further discussed with more complications
   
   
 
