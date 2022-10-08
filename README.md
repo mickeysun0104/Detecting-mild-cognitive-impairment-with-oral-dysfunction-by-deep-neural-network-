@@ -6,8 +6,6 @@ Main skills to use:
 - A deep learning model to handle high-dimensional features with different data types
 - Using LightGBM to do the feature engineering and give proper explanation of the final result
 - Visualizing the embedding of training features to do further analysis
-![image](https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/emb_oral6_t6_molar.png)
-
 
 ## Description of the dataset:
   The data in this reasearch is from Health Examination for the Elderly (台北市老人健康檢查資料庫). There are four datasets we used in this reasearch, including oral examination, SPMSQ, BSRS-5 and demographics. The main issues needs to be solved are the sparsity of the oral features and the imbalanced distribution of the target.
@@ -21,3 +19,12 @@ Main skills to use:
 <div align=center>
 <img src="https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/deep_crossing.png" width="50%" height="50%"/>
 </div>
+
+  In this research, we also want to give a proper explanation to the result of Deep Crossing. Thus, LightGBM is also used to predict cognitive impairment and we will observe the feature importance to guess how Deep Crossing works.
+ <div align=center>
+<img src="https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/LightGBM.png" width="50%" height="50%"/>
+</div>
+  
+  
+  
+
