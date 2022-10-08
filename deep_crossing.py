@@ -31,7 +31,7 @@ def deepcrossing(emb_dim, residual_units, feature):
       else:
         res_out = residual_layer(res_out, res_num)
 
-    #scoring layer
+    #scoring layer('sigmoid' for binary classification and 'softmax' for multiclass classification)
     scoring = keras.layers.Dense(1, activation='sigmoid', name='scoring')(res_out)
 
     model = keras.models.Model([oral_in, basic_in], scoring)
