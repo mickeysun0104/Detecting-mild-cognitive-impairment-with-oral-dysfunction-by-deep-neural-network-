@@ -22,7 +22,7 @@ Main skills to use:
 
   In this research, we also want to give a proper explanation to the result of Deep Crossing. Thus, LightGBM is also used to predict cognitive impairment and we will observe the feature importance to guess how Deep Crossing works.
  <div align=center>
-<img src="https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/LightGBM.png" width="30%" height="30%"/>
+<img src="https://github.com/mickeysun0104/Detecting-mild-cognitive-impairment-with-oral-dysfunction-by-deep-neural-network-/blob/main/pics/LightGBM.png" width="40%" height="40%"/>
 </div>
   
   
